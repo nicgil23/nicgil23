@@ -29,4 +29,17 @@ with reliable backend systems.
 
 </div>
 
+<br>
+
+### Connect with me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/nicolas-gil-caceres/" target="_blank">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin&theme=dark" alt="LinkedIn" />
+  </a>
+  <a href="mailto:nicgil@ucm.es">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=gmail&theme=dark" alt="Gmail" />
+  </a>
+</p>
+
 </div>
