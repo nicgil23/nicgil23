@@ -8,15 +8,11 @@
 and experimenting with Linux. Bridging machine learning<br>
 with reliable backend systems.
 
-<br>
-
 ### Tech Stack
 
-<a href="#">
+<p align="center">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=pytorch,tensorflow,jax,sklearn,wandb,ollama,mongodb,py,cpp,java,plsql,fastapi,spring,redis,linux,arch,podman,git,neovim,selenium,tor&perline=7&theme=dark" alt="Tech Stack" />
-</a>
-
-<br>
+</p>
 
 ### Featured Projects
 
@@ -28,8 +24,6 @@ with reliable backend systems.
 - **Gymflex**: Cross-platform fitness mobile app & ecosystem (workout tracking, gamification, progress analytics).
 
 </div>
-
-<br>
 
 ### Connect with me
 
