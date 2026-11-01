@@ -5,15 +5,15 @@
 ### Hi, I'm Nico! An AI & Data Science Student.
 
 3rd-year engineering student building personal projects<br>
-and experimenting with Linux (started on Arch, stuck on<br>
-Arch). Always learning new tech to craft solid systems.
+and experimenting with Linux. Bridging machine learning<br>
+with reliable backend systems.
 
 <br>
 
 ### Tech Stack
 
 <a href="#">
-  <img src="https://skillicons.dev/icons?i=py,sklearn,mongodb,mysql,supabase,postgres,redis,cpp,java,docker,git,neovim,linux,arch&perline=7&theme=dark" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=pytorch,tensorflow,jax,sklearn,wandb,ollama,mongodb,py,cpp,java,plsql,fastapi,spring,redis,linux,arch,podman,git,neovim,selenium,tor&perline=7&theme=dark" alt="Tech Stack" />
 </a>
 
 </div>
