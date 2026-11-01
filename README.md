@@ -16,4 +16,17 @@ with reliable backend systems.
   <img src="https://go-skill-icons.vercel.app/api/icons?i=pytorch,tensorflow,jax,sklearn,wandb,ollama,mongodb,py,cpp,java,plsql,fastapi,spring,redis,linux,arch,podman,git,neovim,selenium,tor&perline=7&theme=dark" alt="Tech Stack" />
 </a>
 
+<br>
+
+### Featured Projects
+
+<div align="left">
+
+- **Chavales Legales**: AI-generated personalized visual novels (RAG + vector DB). 1st prize, Justice Datathon 2026.
+- **Steam Predictor**: ML platform for game developers (embeddings, regression, NLP).
+- **Apolo**: Modern music library CLI manager (automated audio downloading, rich metadata tagging, synced lyrics).
+- **Gymflex**: Cross-platform fitness mobile app & ecosystem (workout tracking, gamification, progress analytics).
+
+</div>
+
 </div>
